@@ -8,6 +8,19 @@ This project leverages Machine Learning to predict wind speed and direction base
 Accurate wind prediction is vital for optimizing renewable energy (wind farms) and improving local weather alerts. This project follows a full ML pipeline from data cleaning and Exploratory Data Analysis (EDA) to model selection and hyperparameter tuning.
 
 
+# Technical Stack
+
+Backend: Python (Modeling & API Logic)
+
+Frontend: HTML/CSS (UI for data input and result display)
+
+Machine Learning: Scikit-learn (SVM, Random Forest, Decision Tree)
+
+Data Handling: Pandas, NumPy
+
+Model Storage: Pickle (.pkl)
+
+
 # Machine Learning Strategy
 
 I implemented and compared three distinct supervised learning algorithms to find the best fit for the dataset:
@@ -35,5 +48,16 @@ Decision Tree	     82%	             Prone to slight overfitting
 # Why SVM performed best?
 
 The meteorological features exhibited clear margins of separation once the data was properly scaled. The SVM's kernel trick allowed the model to map the non-linear wind patterns more effectively than the tree-based models.
+
+
+# How To Run
+
+1 - Clone the Repository
+
+2 - Install Dependencies
+
+3 - Launch the Application:
+
+4 - View the Results:
 
 
