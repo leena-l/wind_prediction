@@ -5,7 +5,7 @@ This project leverages Machine Learning to predict wind speed and direction base
 
 # Project Overview
 
-Accurate wind prediction is vital for optimizing renewable energy (wind farms) and improving local weather alerts. This project follows a full ML pipeline: from data cleaning and Exploratory Data Analysis (EDA) to model selection and hyperparameter tuning.
+Accurate wind prediction is vital for optimizing renewable energy (wind farms) and improving local weather alerts. This project follows a full ML pipeline from data cleaning and Exploratory Data Analysis (EDA) to model selection and hyperparameter tuning.
 
 
 # Machine Learning Strategy
